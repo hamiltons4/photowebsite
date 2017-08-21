@@ -180,3 +180,52 @@ nav:hover ul {
 	height: 3%;
 }
 
+.parallax {
+	background: url("https://static.pexels.com/photos/36732/camera-old-antique-voigtlander.jpg") repeat fixed 100%;
+	opacity: .5;
+
+}
+
+.parallax-inner {
+	padding-top: 17%;
+
+}
+
+
+.social {
+	list-style: none;
+	text-align: center;
+}
+
+.social li {
+	display: inline;
+}
+
+.social i {
+	font-size: 270%;
+	margin: 1% 5%  7% 4%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
